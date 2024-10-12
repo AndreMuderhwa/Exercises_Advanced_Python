@@ -1,0 +1,11 @@
+{
+    "firstname": "Andrew",
+    "lastname": "Ghost",
+    "age": 28,
+    "city": "Goma",
+    "hasChildren": false,
+    "titles": [
+        "engineer",
+        "programer"
+    ]
+}
